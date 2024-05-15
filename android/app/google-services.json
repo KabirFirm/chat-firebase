@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "280394763264",
+    "project_id": "chat-firebase-723dc",
+    "storage_bucket": "chat-firebase-723dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280394763264:android:016b8a1b8a6aeb56e21ce5",
+        "android_client_info": {
+          "package_name": "com.humayun.chat.firebase.chat_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "280394763264-8g9g99f4pak76phgpdsors4f4e8li1tk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.humayun.chat.firebase.chat_firebase",
+            "certificate_hash": "7f5811eec959eab01524c100da452a20220a4d8d"
+          }
+        },
+        {
+          "client_id": "280394763264-eejqf3dkq9057usitvgkl9bodgghrgke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkQgE-MBpHY2EHEw-qQqVLgHVikdp1e3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "280394763264-eejqf3dkq9057usitvgkl9bodgghrgke.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "280394763264-grvdrsce0uk3i1ctl6e1i8j3af1lkq7g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.humayun.chat.firebase.chatFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
